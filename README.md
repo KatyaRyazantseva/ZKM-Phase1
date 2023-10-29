@@ -10,3 +10,7 @@ The demo implementation uses the Cannon simulator, Zokrates DSL, and Groth16. It
 My verification transaction is https://goerli.etherscan.io/tx/0xce1b170a15d03db1a32b0c75e7188af1c2786463e1f7b3c4893249174b6ba279
 
 Generated proof number is 42046.
+
+You can find the program details here https://www.zkm.io/ecp
+
+ZKM Github https://github.com/zkMIPS/mips_circuit
